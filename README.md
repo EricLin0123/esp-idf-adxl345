@@ -10,7 +10,7 @@ Set up the environment variables.(if you followed the official [doc](https://doc
 . $HOME/esp/esp-idf/export.sh
 ```
 
-Go to the _/example_ directory (esp-idf-adxl345) and configure the project. My target is esp32
+Go to the _/example_ directory (/esp-idf-adxl345/example) and configure the project. My target is esp32
 
 ```bash
 idf.py set-target esp32
